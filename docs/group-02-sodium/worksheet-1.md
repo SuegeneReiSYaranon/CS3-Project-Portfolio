@@ -48,9 +48,9 @@
 | ---- | ------------- | -------------------- |
 | 1 Student arrives at classroom | Student checks in | Student |
 | 2 Program use | Student inputs the data | Student |
-| 3 Program checks if late | If input time > 7:40 AM = Late | N\A |
-| 4 If student is late | Program tells student to get an admission slip and marks the student as late | N\A |
-| 5 If student is not late | Program marks Student as present | N\A |
+| 3 Program checks if late | If input time > 7:40 AM = Late | N\A (Program) |
+| 4 If student is late | Program tells student to get an admission slip and marks the student as late | N\A (Program) |
+| 5 If student is not late | Program marks Student as present | N\A (Program)|
 | 6 After 4:30, check if all students are present | Teacher tells program to display student name, status, and time of arrival | Teacher | 
 ---
 
