@@ -10,4 +10,4 @@
 6. Mohammad Madki
 
 ## Project Title
-Attendance Automation
+Attendance Checker
