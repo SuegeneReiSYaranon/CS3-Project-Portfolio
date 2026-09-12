@@ -10,5 +10,4 @@
 6. Mohammad Madki
 
 ## Project Title
-
-_*Attendance Automation*_
+### Attendance Automation
