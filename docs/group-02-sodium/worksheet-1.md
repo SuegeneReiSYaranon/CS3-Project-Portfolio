@@ -23,13 +23,13 @@
 
 ### 1. What process did you observe?
 
-> *Write your answer here.*
+> *The daily classroom student attendance logging and monitoring process where students type their information manually.*
 
 <br>
 
 ### 2. What is the purpose of this process?
 
-> *Write your answer here.*
+> *To track who is present or late every day, make sure late students get an admission slip, and help teachers keep clear attendance records.*
 
 <br>
 
