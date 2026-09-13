@@ -58,13 +58,13 @@
 
 ### 1. What problems or difficulties did you observe?
 
-> *Write your answer here.*
+> *Tracking the present students and monitoring their time of arrival is a hassle towards the teacher in charge (adviser).*
 
 <br>
 
 ### 2. Which part of the process could be improved or automated?
 
-> *Write your answer here.*
+> *The process of tracking attendance and monitoring time of arrival.*
 
 <br>
 
