@@ -82,8 +82,8 @@
 
 | User/Role | Possible Use |
 | --------- | ------------ |
-| 1.Student | To quickly check into class |
-| 2.Teacher | To easily see who is absent or was absent during a specific day|
+| 1.*Role 1* | *How will they use the program* |
+| 2.*Role 2* | *How will they use the program* |
 
 ### 3. What are the essential features?
 
